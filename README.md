@@ -7,4 +7,14 @@
       - Puppet
       - Chef
       - Saltstack
-  -      
+  - Cloud Provider 
+      - Google Cloud
+      - AWS
+      - Azure
+      - Alibaba Cloud
+  - Budget Cloud Provider
+      - OVH
+      - Digital Ocean
+  - Monitoring 
+      - Grafana/Prometheus
+      - 
