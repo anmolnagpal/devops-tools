@@ -17,4 +17,24 @@
       - Digital Ocean
   - Monitoring 
       - Grafana/Prometheus
-      - 
+      - Monit/Mmonit
+      - Nagious
+      - Spulk
+  - Logs Management 
+      - ELK Stack
+      - Logz.io
+  - Alets 
+      - Pagerduty
+  - Communicaiton 
+      - Slack
+      - Skype
+  - Deployment
+      - Teamcity
+      - Jenkins
+      - GoCD
+  - CI
+      - Jenkins
+      - Travis
+      - Circle CI
+      - Drone CI
+  -     
