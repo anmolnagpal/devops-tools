@@ -8,13 +8,12 @@
       - [Chef](https://www.chef.io/chef/)
       - [Saltstack](https://www.saltstack.com/)
   - Cloud Provider 
-      - Google Cloud
-      - AWS
-      - Azure
-      - Alibaba Cloud
-  - Budget Cloud Provider
-      - OVH
-      - Digital Ocean
+      - [Google Cloud](https://cloud.google.com)
+      - [AWS](http://aws.amazon.com)
+      - [Azure](https://azure.microsoft.com)
+      - [Alibaba Cloud](https://www.alibabacloud.com)
+      - [Digital Ocean](http://digitalocean.com)
+      - [OVH](http://ovh.com)
   - Monitoring 
       - Grafana/Prometheus
       - Monit/Mmonit
